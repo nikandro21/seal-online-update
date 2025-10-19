@@ -9,7 +9,7 @@
       "checksum": "2bcca3a6c303160adee514097f8acdae",
       "fileSize": 5838919,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.1:\n• Major combat system overhaul\n• New character classes\n• Performance improvements"
+      "releaseNotes": "Version 1.0.1:\n- Major combat system overhaul\n• New character classes\n- Performance improvements"
     },
     {
       "version": "1.0.2",
@@ -18,7 +18,7 @@
       "checksum": "dd56c687dbf848d2a095bb4e300abd37",
       "fileSize": 3200022,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.2:\n• New maps and dungeons\n• Enhanced graphics engine\n• Guild system improvements"
+      "releaseNotes": "Version 1.0.2:\n- New maps and dungeons\n• Enhanced graphics engine\n- Guild system improvements"
     },
     {
       "version": "1.0.3",
@@ -27,7 +27,7 @@
       "checksum": "dd56c687dbf848d2a095bb4e300abd37",
       "fileSize": 3200022,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.3:\n• Pet system expansion\n• New items and equipment\n• Bug fixes"
+      "releaseNotes": "Version 1.0.3:\n- Pet system expansion\n• New items and equipment\n- Bug fixes"
     },
   ]
 }
